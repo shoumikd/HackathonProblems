@@ -15,7 +15,7 @@ import java.util.TreeSet;
 class Question1 {
     public static void enterValues() throws Exception {
 
-        //BufferedReader
+        //BufferedReaders
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter list length");
         String name = br.readLine();         
