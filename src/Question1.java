@@ -14,6 +14,7 @@ import java.util.TreeSet;
 
 class Question1 {
     public static void enterValues() throws Exception {
+    	
 
         //BufferedReaders
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
